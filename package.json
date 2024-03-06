@@ -1,0 +1,23 @@
+{
+  "name": "dynaj",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "framework",
+    "web",
+    "typescript",
+    "web-framework"
+  ],
+  "author": "CrossScar",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
+    "eslint": "^8.53.0",
+    "typescript": "^5.2.2"
+  }
+}
