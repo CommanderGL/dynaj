@@ -1,0 +1,14 @@
+{
+  "name": "@crossscar/dynaj",
+  "version": "1.1.0",
+  "exports": {
+    ".": "./index.ts",
+    "./state": "./state.ts"
+  },
+  "publish": {
+    "exclude": [
+      "test",
+      "dist"
+    ]
+  }
+}
